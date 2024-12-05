@@ -1,0 +1,58 @@
+@charset "utf-8";
+
+html {
+    background-color: #1a8c16;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: #5ebd5b;
+    margin-top: 25px;
+}
+
+h1 {
+    color: white;
+}
+
+table caption {
+    margin-top: 15px;
+    caption-side: bottom;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.header {
+    text-align: center;
+    padding: 10px 0 10px 0;
+}
+
+ol {
+    padding: 0 30px 0 40px;
+}
+
+p {
+    padding-left: 15px;
+}
+
+a {
+    text-decoration: none;
+}
+
+figure {
+    border: 3px solid #1a8c16;
+}
+
+figcaption {
+    text-align: center;
+}
+
+img {
+    width: 150px;
+    padding: 10px;
+}
+
+td {
+    border: 1px solid black;
+}
